@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+My name is Keenan, and I like software. I use software, I sell software for a living, and I create software for fun, using GitHub as a portfolio for my projects. Enjoy!
+
 <!--
 **keenanbruni/keenanbruni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
