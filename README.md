@@ -1,6 +1,6 @@
-## What's going on
+## What's going on 👋
 
-My name is Keenan, this is my work
+My name is Keenan, and this is my work.
 
 <!--
 **keenanbruni/keenanbruni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
